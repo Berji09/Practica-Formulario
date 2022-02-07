@@ -1,0 +1,17 @@
+
+main{
+    text-align: center;
+}
+
+.centrado{
+    margin: 10px auto;
+    display: block;
+}
+
+.acceder{
+    background-color:red
+}
+
+.grua{
+    background-color:red
+}
